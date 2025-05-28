@@ -4,6 +4,7 @@ Input Data
 - The dataset provided in the Kaggle Playground Series.
 - Features processed using t-SNE for visualization.
 - Quantum Neural Networks applied for predictive modeling.
+  
 Output
 - t-SNE plots for dimensionality reduction and data visualization.
 - Model performance metrics from QNN.
