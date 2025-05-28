@@ -6,7 +6,7 @@ Input Data
 - Quantum Neural Networks applied for predictive modeling.
   
 Output
-- t-SNE plots for dimensionality reduction and data visualization.
+
 - Model performance metrics from QNN.
 - Insights and analysis derived from the dataset.
 Feel free to check out the code and contribute! 
